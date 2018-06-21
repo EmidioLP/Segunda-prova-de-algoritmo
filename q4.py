@@ -1,3 +1,5 @@
+#Questão 4
+
 def troca(s, velho, novo):
     s = list(s)
     aux1 = 0
