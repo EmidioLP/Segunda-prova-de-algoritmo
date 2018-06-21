@@ -1,3 +1,5 @@
+#Questão 3
+
 l1=[int(x) for x in input().split()]
 a11,a12,a13,a14,b11,b12,b13,b14=l1
 
